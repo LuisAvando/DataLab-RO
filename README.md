@@ -1,2 +1,5 @@
-# DataLab RO
- Primeiro repositorio de Git e GitHub
+# Iniciando GIT
+ Primeiro repositório de Git e GitHub
+
+ Repositório criado durante aula ao vivo
+ 
